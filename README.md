@@ -2,7 +2,8 @@
 
 📁 Please check the 'ipynb' files for more information about the methodology.
 
-![alt text](https://github.com/GidoStoop/Shared-Mobility-Location-Suitability-Model/blob/master/poster_Shared-Mobility-Location-Suitability-Model.jpg "Poster")
+![alt text](https://github.com/GidoStoop/Shared-Mobility-Location-Suitability-Model/blob/main/poster_Shared-Mobility-Location-Suitability-Model.jpg "Poster")
+
 
 ## 📚 Additional resources
 
