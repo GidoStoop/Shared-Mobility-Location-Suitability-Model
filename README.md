@@ -1,6 +1,6 @@
 # 🚲 Shared Mobility Location Suitability Model
 
-📁 Please check the 'ipynb' files for more information about the methodology.
+📁 Please check the 'ipynb' files for more information about the methodology.<br></br>
 🎯 If you are interested in the output for the Netherlands, please contact me.
 
 ![alt text](https://github.com/GidoStoop/Shared-Mobility-Location-Suitability-Model/blob/main/poster_Shared-Mobility-Location-Suitability-Model.jpg "Poster")
